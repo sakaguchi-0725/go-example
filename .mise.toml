@@ -1,0 +1,4 @@
+[tools]
+go = 1.27.3
+air = 1.67.4
+"golangci-lint" = 2.15.0
